@@ -1,8 +1,12 @@
 using CoreIdentity.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using sib_api_v3_sdk.Client;
 
 var builder = WebApplication.CreateBuilder(args);
+//For brevo
+//Configuration.Default.ApiKey.Add("api-key", builder.Configuration["BrevoSettings:ApiKey"]);
+
 
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
@@ -45,6 +49,8 @@ builder.Services.ConfigureApplicationCookie(options =>
     options.AccessDeniedPath = "/Identity/Account/AccessDenied";
     options.SlidingExpiration = true;
 });
+
+//builder.Services.Configure<BrevoSetting>(builder.Configuration.GetSection("BrevoSettings"));
 
 var app = builder.Build();
 
