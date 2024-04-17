@@ -174,7 +174,7 @@ namespace CoreIdentity.Areas.Identity.Pages.Account
 
                 smtpClient.EnableSsl = true;
                 smtpClient.UseDefaultCredentials = false;
-                smtpClient.Credentials = new NetworkCredential("zlamsong6@gmail.com", "xsmtpsib-b9b096d069a982e635dd3a39daa15d5d28b538a4eccc0e4e10de9e5217595930-3zWnwTsc1BpOfL2C");
+                smtpClient.Credentials = new NetworkCredential("USERNAME", "PASSWORD");
                 smtpClient.DeliveryMethod = SmtpDeliveryMethod.Network;
                 smtpClient.Send(message);
                 return true;
