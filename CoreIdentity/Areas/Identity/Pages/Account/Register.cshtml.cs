@@ -163,7 +163,7 @@ namespace CoreIdentity.Areas.Identity.Pages.Account
             {
                 MailMessage message = new MailMessage();
                 SmtpClient smtpClient = new SmtpClient();
-                message.From = new MailAddress("testOrg@mail.com");
+                message.From = new MailAddress("testOrg");
                 message.To.Add(email);
                 message.Subject = subject;
                 message.IsBodyHtml = true;

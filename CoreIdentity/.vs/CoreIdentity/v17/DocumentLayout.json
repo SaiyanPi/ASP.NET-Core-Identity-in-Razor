@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{3C7C5210-A3E5-4CBB-9E07-D9AE0108E362}|CoreIdentity.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C7C5210-A3E5-4CBB-9E07-D9AE0108E362}|CoreIdentity.csproj|c:\\users\\zlams\\source\\asp.net core identity\\coreidentity\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3C7C5210-A3E5-4CBB-9E07-D9AE0108E362}|CoreIdentity.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3C7C5210-A3E5-4CBB-9E07-D9AE0108E362}|CoreIdentity.csproj|c:\\users\\zlams\\source\\asp.net core identity\\coreidentity\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7C5210-A3E5-4CBB-9E07-D9AE0108E362}|CoreIdentity.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C7C5210-A3E5-4CBB-9E07-D9AE0108E362}|CoreIdentity.csproj|c:\\users\\zlams\\source\\asp.net core identity\\coreidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3C7C5210-A3E5-4CBB-9E07-D9AE0108E362}|CoreIdentity.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3C7C5210-A3E5-4CBB-9E07-D9AE0108E362}|CoreIdentity.csproj|c:\\users\\zlams\\source\\asp.net core identity\\coreidentity\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C7C5210-A3E5-4CBB-9E07-D9AE0108E362}|CoreIdentity.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C7C5210-A3E5-4CBB-9E07-D9AE0108E362}|CoreIdentity.csproj|c:\\users\\zlams\\source\\asp.net core identity\\coreidentity\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3C7C5210-A3E5-4CBB-9E07-D9AE0108E362}|CoreIdentity.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C7C5210-A3E5-4CBB-9E07-D9AE0108E362}|CoreIdentity.csproj|c:\\users\\zlams\\source\\asp.net core identity\\coreidentity\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C7C5210-A3E5-4CBB-9E07-D9AE0108E362}|CoreIdentity.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C7C5210-A3E5-4CBB-9E07-D9AE0108E362}|CoreIdentity.csproj|c:\\users\\zlams\\source\\asp.net core identity\\coreidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C7C5210-A3E5-4CBB-9E07-D9AE0108E362}|CoreIdentity.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C7C5210-A3E5-4CBB-9E07-D9AE0108E362}|CoreIdentity.csproj|c:\\users\\zlams\\source\\asp.net core identity\\coreidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,14 +48,14 @@
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ToolTip": "C:\\Users\\zlams\\source\\ASP.NET Core Identity\\CoreIdentity\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAKAAAAAAAAAAAAAQwLYAAAANAAAA",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAAAKUAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T14:31:29.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RegisterConfirmation.cshtml",
               "DocumentMoniker": "C:\\Users\\zlams\\source\\ASP.NET Core Identity\\CoreIdentity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
@@ -68,13 +68,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\zlams\\source\\ASP.NET Core Identity\\CoreIdentity\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\zlams\\source\\ASP.NET Core Identity\\CoreIdentity\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-15T13:47:39.627Z",
               "EditorCaption": ""
@@ -87,14 +87,14 @@
               "RelativeDocumentMoniker": "appsettings.Development.json",
               "ToolTip": "C:\\Users\\zlams\\source\\ASP.NET Core Identity\\CoreIdentity\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-16T12:53:03.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "RegisterConfirmation.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\zlams\\source\\ASP.NET Core Identity\\CoreIdentity\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
@@ -102,7 +102,8 @@
               "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAAD4AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T14:04:49.427Z"
+              "WhenOpened": "2024-04-16T14:04:49.427Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
