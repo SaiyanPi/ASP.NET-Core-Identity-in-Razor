@@ -163,14 +163,14 @@ namespace CoreIdentity.Areas.Identity.Pages.Account
             {
                 MailMessage message = new MailMessage();
                 SmtpClient smtpClient = new SmtpClient();
-                message.From = new MailAddress("testOrg");
+                message.From = new MailAddress("");
                 message.To.Add(email);
                 message.Subject = subject;
                 message.IsBodyHtml = true;
                 message.Body = confirmLink;
 
                 smtpClient.Port = 587;
-                smtpClient.Host = "smtp-relay.brevo.com";
+                smtpClient.Host = "";
 
                 smtpClient.EnableSsl = true;
                 smtpClient.UseDefaultCredentials = false;
