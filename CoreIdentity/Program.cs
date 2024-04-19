@@ -49,6 +49,12 @@ builder.Services.ConfigureApplicationCookie(options =>
     options.AccessDeniedPath = "/Identity/Account/AccessDenied";
     options.SlidingExpiration = true;
 });
+//protecting private pages
+builder.Services.AddRazorPages(options =>
+{
+    options.Conventions.AuthorizePage("/PrivatePage1");
+    options.Conventions.AuthorizePage("/PrivatePage2");
+});
 
 //builder.Services.Configure<BrevoSetting>(builder.Configuration.GetSection("BrevoSettings"));
 

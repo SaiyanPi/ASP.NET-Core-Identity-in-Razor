@@ -163,18 +163,18 @@ namespace CoreIdentity.Areas.Identity.Pages.Account
             {
                 MailMessage message = new MailMessage();
                 SmtpClient smtpClient = new SmtpClient();
-                message.From = new MailAddress("");
+                message.From = new MailAddress("testOrg@mail.com");
                 message.To.Add(email);
                 message.Subject = subject;
                 message.IsBodyHtml = true;
                 message.Body = confirmLink;
 
                 smtpClient.Port = 587;
-                smtpClient.Host = "";
+                smtpClient.Host = "smtp-relay.brevo.com";
 
                 smtpClient.EnableSsl = true;
                 smtpClient.UseDefaultCredentials = false;
-                smtpClient.Credentials = new NetworkCredential("USERNAME", "PASSWORD");
+                smtpClient.Credentials = new NetworkCredential("username", "password");
                 smtpClient.DeliveryMethod = SmtpDeliveryMethod.Network;
                 smtpClient.Send(message);
                 return true;
